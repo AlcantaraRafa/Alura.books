@@ -54,6 +54,6 @@
     width: 60vw;
     }
 
-    .container__botao{
+.container_botao{
         display:none;
-    }
+}
